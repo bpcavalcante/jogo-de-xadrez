@@ -27,6 +27,7 @@ public class Position {
 	}
 	
 	// Imprimir posição na tela
+	
 	@Override
 	public String toString() {
 		return row + ", " + column;
